@@ -123,4 +123,4 @@ async def buy(ctx, *, item_name):
     else:
         await ctx.send(f"{ctx.author.mention}, you bought **{item_name}** for {cost} V-Bucks!")
 
-bot.run('MTM2NzY0NTM5NjY5NjAzOTQyNA.GkdTYY.VHPIY934vvasklRCoC2A__35xI9zGfw5f3k4-E')
+bot.run('')
